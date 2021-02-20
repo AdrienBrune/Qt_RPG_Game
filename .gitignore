@@ -1,4 +1,6 @@
+cat .gitignore
+
 /Development/GraphicStuff
 /Development/Ressources/dev
 /Development/Game_MMORPG.pro.user
-/Release/*.o
+*.o
