@@ -128,6 +128,8 @@ RESOURCES += \
 
 CONFIG += resources_big
 
+RC_ICONS = ./Ressources/rpg_game.ico
+
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
