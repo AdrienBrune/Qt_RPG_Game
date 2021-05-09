@@ -1,3 +1,4 @@
+
 <h1>Description</h1>
 
 <ul>
@@ -5,6 +6,8 @@
 <li>Version : 1.0.0</li>
 <li>Date : 20/02/2021</li>
 </ul>
+
+<img src="./Development/Ressources/game_rpg.png" alt="Logo" width="200" height="200">
 
 ## Introduction
 
